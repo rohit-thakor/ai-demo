@@ -4,4 +4,4 @@ torch
 flask
 diffusers
 pyngrok
-PIL
+Pillow
