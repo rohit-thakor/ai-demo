@@ -1,4 +1,4 @@
-!pip install flask flask-ngrok pyngrok torch diffusers
+# !pip install flask flask-ngrok pyngrok torch diffusers
 import os
 import torch
 import base64
