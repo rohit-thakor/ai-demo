@@ -1,5 +1,5 @@
-# !pip install flask flask-ngrok pyngrok torch diffusers
-pip install torchvision
+# pip install flask flask-ngrok pyngrok torch diffusers
+# pip install torchvision
 import os
 import torch
 import base64
