@@ -5,3 +5,4 @@ flask
 diffusers
 pyngrok
 Pillow
+transformers
