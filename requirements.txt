@@ -2,3 +2,5 @@ tensorflow
 torch
 flask
 diffusers
+pyngrok
+PIL
